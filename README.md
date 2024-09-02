@@ -1,4 +1,4 @@
-- 👋 Olá, Meu nome é @jorge Eduardo Andrade Siqueira
+- 👋 Olá, Meu nome é Jorge Eduardo Andrade Siqueira
 - 👀 Tenho interesse em desenvolvimento web
 - 🌱 Atualmente estou estudando desenvolvimento Full Stack e PHP
 <!---
