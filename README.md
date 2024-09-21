@@ -1,5 +1,5 @@
 Olá! Sou o Jorge Eduardo e estou sempre aprendendo e desenvolvendo novas habilidades. 
-Atualmente estou estudando desenvolvimento Full Stack e PHP na Digital College.
+Atualmente estou estudando desenvolvimento Full Stack e PHP com Laravel na Digital College.
 
 **Projetos:**
 * **Meu primeiro site:** Um site simples criado com HTML, CSS e JavaScript.
