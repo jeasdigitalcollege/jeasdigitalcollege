@@ -12,6 +12,7 @@ Atualmente estou estudando desenvolvimento Full Stack e PHP com Laravel na Digit
   
 **Contato:**
 * Email: jeas@outlook.com
-* LInkedin: linkedin.com/in/jorgeeasiqueira 
-* Facebok: facebook.com/jorgeeasiqueira
+* LinkedIn: [Jorge Eduardo Andrade Siqueira](https://linkedin.com/in/jorgeeasiqueira)
+* Facebook: [Jorge Eduardo Andrade Siqueira](https://facebook.com/jorgeeasiqueira)
+* Instagram: 
 * YouTube: 
