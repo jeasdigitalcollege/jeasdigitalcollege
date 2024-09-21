@@ -13,8 +13,13 @@ Atualmente estou estudando desenvolvimento Full Stack e PHP na Digital College.
 * CSS
 
 **Contato:**
-* Email: jeas@email.com
-* LinkedIn: https://www.linkedin.com/in/jeasdigitalcollege
+* * Email: jeas@outlook.com
+* * LinkedIn: linkedin.com/in/jorgeeasiqueira
+* * Facebok:	facebook.com/jorgeeasiqueira
+* * YouTube: 
+
+
+
 
 **Blog:** https://meublog.com
 ```
