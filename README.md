@@ -6,14 +6,13 @@ Atualmente estou estudando desenvolvimento Full Stack e PHP na Digital College.
 * **Aplicativo de tarefas:** Um aplicativo para gerenciar tarefas diárias, desenvolvido com React.
 
 **Habilidades:**
-* Python
-* JavaScript
-* React
 * HTML
 * CSS
-
+* JavaScript
+* PHP
+  
 **Contato:**
-* ** Email: jeas@outlook.com
-* ** LinkedIn: linkedin.com/in/jorgeeasiqueira
-* ** Facebok:	facebook.com/jorgeeasiqueira
-* ** YouTube: 
+* Email: jeas@outlook.com
+* LinkedIn: linkedin.com/in/jorgeeasiqueira
+* Facebok:	facebook.com/jorgeeasiqueira
+* YouTube: 
