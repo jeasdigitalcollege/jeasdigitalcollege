@@ -32,7 +32,8 @@ Atualmente estou estudando desenvolvimento Full Stack e PHP com Laravel na Digit
 
 * ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-* ![PHP](https://img.shields.io/badge/PHP-7.4-blue)
+*
+![PHP](https://img.shields.io/badge/PHP-7.4-blue)
 ![Docker](https://img.shields.io/badge/Docker-19.03-blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-brightgreen)
 
