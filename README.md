@@ -6,7 +6,6 @@ Atualmente estou estudando desenvolvimento Full Stack e PHP com Laravel na Digit
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
@@ -33,5 +32,12 @@ Atualmente estou estudando desenvolvimento Full Stack e PHP com Laravel na Digit
 ![Docker](https://img.shields.io/badge/Docker-19.03-blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-brightgreen)
 
-❤️
+❤# Meu Projeto
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/usuario/repo/actions)
+![Cobertura de Testes](https://img.shields.io/badge/coverage-95%25-brightgreen)
+![Versão](https://img.shields.io/badge/version-1.0.0-blue)
+![Licença MIT](https://img.shields.io/badge/license-MIT-green)
+
+Este é um exemplo de projeto com badges para mostrar status de build, cobertura de testes e a licença.
+
 
