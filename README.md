@@ -30,14 +30,12 @@ Atualmente estou estudando desenvolvimento Full Stack e PHP com Laravel na Digit
 * Instagram 
 * YouTube
 
-* ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-
 *
 ![PHP](https://img.shields.io/badge/PHP-7.4-blue)
 ![Docker](https://img.shields.io/badge/Docker-19.03-blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-brightgreen)
 
-❤# Meu Projeto
+# Meu Projeto
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/usuario/repo/actions)
 ![Cobertura de Testes](https://img.shields.io/badge/coverage-95%25-brightgreen)
 ![Versão](https://img.shields.io/badge/version-1.0.0-blue)
