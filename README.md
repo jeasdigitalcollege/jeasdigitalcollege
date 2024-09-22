@@ -16,4 +16,7 @@ Atualmente estou estudando desenvolvimento Full Stack e PHP com Laravel na Digit
 * [LinkedIn](https://linkedin.com/in/jorgeeasiqueira "Perfil no LinkedIn")
 * [Facebook](https://facebook.com/jorgeeasiqueira "Perfil no Facebook")
 * Instagram 
-* YouTube 
+* YouTube
+
+* ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
