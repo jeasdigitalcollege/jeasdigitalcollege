@@ -24,4 +24,5 @@ Atualmente estou estudando desenvolvimento Full Stack e PHP com Laravel na Digit
 ![Docker](https://img.shields.io/badge/Docker-19.03-blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-brightgreen)
 
+❤️
 
