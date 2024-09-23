@@ -43,4 +43,6 @@ Atualmente estou estudando desenvolvimento Full Stack e PHP com Laravel na Digit
 
 Este é um exemplo de projeto com badges para mostrar status de build, cobertura de testes e a licença.
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
